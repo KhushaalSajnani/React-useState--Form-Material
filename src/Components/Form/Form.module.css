@@ -1,0 +1,29 @@
+.form-container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: darkred;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    height: 100%;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input{
+    background-color: blue;
+    /*background-color: antiquewhite;*/
+    width: 80%;
+}
+
+.textfield{
+    margin-top: 2%;
+    width: 100%;
+}
